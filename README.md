@@ -16,7 +16,7 @@
 
 <div align="center">
   <img
-   style="width: 100%; max-width: 800px; height: 140; display: block;"  
+   height: 180
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dirinkbottle&layout=donut&hide_border=true&theme=prussian" />
 </div>
 
