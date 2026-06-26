@@ -6,7 +6,6 @@
 
 
 **Environment & Tools:**
-**Environment & Tools:**
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -16,7 +15,9 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dirinkbottle&layout=compact&hide_border=true&theme=prussian" />
+  <img
+   style="width: 100%; max-width: 800px; height: auto; display: block;"  
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dirinkbottle&layout=donut&hide_border=true&theme=prussian" />
 </div>
 
 <picture>
